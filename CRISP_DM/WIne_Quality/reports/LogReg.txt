@@ -1,0 +1,4 @@
+Model: GridSearchCV
+Accuracy: 0.7411640211640211
+Best params: {'classification__C': 1.0, 'classification__penalty': 'l2'}
+---
