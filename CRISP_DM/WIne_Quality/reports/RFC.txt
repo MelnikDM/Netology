@@ -1,0 +1,44 @@
+Model: GridSearchCV
+Accuracy: 0.8146031746031747
+Best params: {'classification__max_features': 1}
+---
+Model: GridSearchCV
+Accuracy: 0.8277273623105315
+Best params: {'classification__max_features': 0.8}
+---
+Model: GridSearchCV
+Accuracy: 0.8241310423907982
+Best params: {'classification__max_features': 1}
+---
+Model: GridSearchCV
+Accuracy: 0.7411640211640211
+Best params: {'classification__C': 1.0, 'classification__penalty': 'l2'}
+---
+Model: GridSearchCV
+Accuracy: 0.7411640211640211
+Best params: {'classification__C': 1.0, 'classification__penalty': 'l2'}
+---
+Model: GridSearchCV
+Accuracy: 0.7856084656084658
+Best params: {'classification__criterion': 'gini', 'classification__max_depth': 8, 'classification__max_features': 0.5, 'classification__n_estimators': 100}
+---
+Model: GridSearchCV
+Accuracy: 0.7862433862433863
+Best params: {'classification__criterion': 'gini', 'classification__max_depth': 8, 'classification__max_features': 0.8, 'classification__n_estimators': 64}
+---
+Model: GridSearchCV
+Accuracy: 0.7826455026455026
+Best params: {'classification__criterion': 'gini', 'classification__max_depth': 8, 'classification__max_features': 0.5}
+---
+Model: GridSearchCV
+Accuracy: 0.7894179894179894
+Best params: {'classification__criterion': 'gini', 'classification__max_depth': 8, 'classification__max_features': 0.8}
+---
+Model: GridSearchCV
+Accuracy: 0.8074074074074075
+Best params: {'classification__criterion': 'entropy', 'classification__max_depth': 12, 'classification__max_features': 0.8}
+---
+Model: GridSearchCV
+Accuracy: 0.8101587301587302
+Best params: {'classification__criterion': 'gini', 'classification__max_depth': 12, 'classification__max_features': 0.5, 'classification__n_estimators': 64}
+---
