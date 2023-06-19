@@ -14,3 +14,10 @@
 
 В данном [ноутбуке](https://github.com/MelnikDM/Netology/blob/main/Time_Series/notebooks/TS_Elementary_methods.ipynb) были использованы несколько методов приближения исходных данных MA, WMA, EMA (SES). Модели строились на стационарном ряде (рождаемость в Калифорнии) и нестационарном (данные по пассажиропотоку).
 
+## Модели ARMA
+
+- Выберите ряд из первого задания.
+- Постройте его модель ARIMA.
+- Оформите отчёт в Jupyter-ноутбук.
+
+В данном [ноутбуке](https://github.com/MelnikDM/Netology/blob/main/Time_Series/notebooks/ARIMA_model.ipynb) рассматривается применение моделей прогнозирования нестационарных временных рядов, в частности используется ARIMA.
